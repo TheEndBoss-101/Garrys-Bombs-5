@@ -1,0 +1,28 @@
+"Refract"
+	{
+		"$model" 1
+		"$bluramount" "100"
+		"$surfaceprop" "glass"
+		"$refractamount" "0.1"
+		"$scale" "[1 1]"
+		"$alpha" 1
+		"$vertexalpha" "1"
+		"$vertexcolor" "1"
+		"$translucent" "1"
+		"$forcerefract" 1
+		"$nofog" "1"
+		$NoCull 1
+
+		"$normalmap" "misc/spirit_energy"
+
+		"$REFRACTTINT" "[0.9 0.9 0.9 ]"
+		"Proxies"
+		{
+		"AnimatedTexture"
+		{
+		"animatedtexturevar" "$normalmap"
+		"animatedtextureframenumvar" "$bumpframe"
+		"animatedtextureframerate" "20"
+		}
+	}
+}

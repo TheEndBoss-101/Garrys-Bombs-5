@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/rogue_cheney/cannon/cannonball_expl_fuse"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$phong" 1
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[0.01 0.01 0.01]"
+	"$envmap" "env_cubemap"
+	"$translucent" 1
+	"$NoCull" 1
+}
+

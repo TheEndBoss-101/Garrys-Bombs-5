@@ -1,0 +1,27 @@
+"UnlitGeneric"
+{
+	"$basetexture" "misc/spirit_energy"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.1 0.01 0.01]"
+	
+	"$alpha" "1"
+	"$model" 1
+	"$surfaceprop" "metal"
+	"$translucent" 1
+	"$nocull" 1
+	"Proxies"
+    {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "20"
+		 
+		 
+      }
+
+   }
+}
+
+
