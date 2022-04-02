@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/rogue/tibe/tibe_trans"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$envmaptint" "[0.01 0.8 0.5]"
+	"$envmap" "env_cubemap"
+	"$translucent" 0
+}
+
