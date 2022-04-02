@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/rogue/tibe/tibe_decal"
+	"$decal" 1
+	"$decalscale" 6
+	"$translucent" 1
+
+}
